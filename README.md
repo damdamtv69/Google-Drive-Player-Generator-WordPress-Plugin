@@ -1,4 +1,4 @@
-# Google-Drive-Player-Script
+# Google Drive Player Proxy Generator + JW Player 8 + WordPress Plugin + Anti Limit
 Grab google drive streaming links (redirector.googlevideo.com/videoplayback?..)
 
 ## Usage API
