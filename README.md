@@ -15,21 +15,21 @@ Download : http://streamapi.net/wp_streamapi_v1.zip
 
 # How to use:
  
- 1. #Download and install the plugin
- 2. #Go to setting > StreamAPI
- 3. #How to use
+ 1. # Download and install the plugin
+ 2. # Go to setting > StreamAPI
+ 3. # How to use
  
-#Place This Code Under Your Post Content:
+# Place This Code Under Your Post Content:
  
 Code:
 [api link="your_video_link" poster="poster_link" logo="logo_link"]
 
-#Example #1:
+# Example #1:
  
 Code:
 [api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view" poster="http://streamapi.net/poster/1.jpg" logo="http://streamapi.net/template/images/logo.png"]
 
-#Example #2:
+# Example #2:
  
 Code:
 [api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view"]
