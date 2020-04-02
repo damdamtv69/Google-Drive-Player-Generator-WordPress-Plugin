@@ -34,4 +34,24 @@ Code:
 Code:
 [api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view"]
 
+## How to use
+
+### PHP Code:
+
+	$streamAPIContent = file_get_contents('http://streamapi.net/get.php?url={url-drive-google}&poster={poster-url}&logo={logo-url}');
+	$datastreamAPI = json_decode($streamAPIContent, TRUE);
+	if($datastreamAPI['status_video']=='Ready') {
+		$streamAPISLUG = $datastreamAPI['iframe'];
+		$statusVideo = 1;
+	}
+	
+
+### In which
+1. #### {url-drive-google} : File path from google drive. Note: Always grant public rights.
+2. #### {poster-url} : Image path
+3. #### {logo-url} : Logo path
+4. #### $streamAPISLUG : Path to attach to iframe tag
+5. #### $statusVideo : Video status. 1 ready. 0 errors
+
+
 ![](https://i.imgur.com/pkAyfgr.png)
