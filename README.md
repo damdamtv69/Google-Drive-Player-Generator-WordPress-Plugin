@@ -1,6 +1,8 @@
 # Google Drive Player Proxy Generator + JW Player 8 + WordPress Plugin + Anti Limit
 Grab google drive streaming links (redirector.googlevideo.com/videoplayback?..)
 
+![](https://i.imgur.com/pkAyfgr.png)
+
 ## Usage API
 
 Use directly here : <a href="http://streamapi.net/" rel="dofollow">http://streamapi.net/
@@ -34,6 +36,8 @@ Code:
 Code:
 [api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view"]
 
+
+## Usage PHP Code
 ## How to use
 
 ### PHP Code:
@@ -52,6 +56,3 @@ Code:
 3. #### {logo-url} : Logo path
 4. #### $streamAPISLUG : Path to attach to iframe tag
 5. #### $statusVideo : Video status. 1 ready. 0 errors
-
-
-![](https://i.imgur.com/pkAyfgr.png)
