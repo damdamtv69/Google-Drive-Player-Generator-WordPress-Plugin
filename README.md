@@ -24,18 +24,20 @@ Download : http://streamapi.net/wp_streamapi_v1.zip
 ### Place This Code Under Your Post Content:
  
 Code:
-[api link="your_video_link" poster="poster_link" logo="logo_link"]
+
+	[api link="your_video_link" poster="poster_link" logo="logo_link"]
 
 ### Example #1:
  
 Code:
-[api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view" poster="http://streamapi.net/poster/1.jpg" logo="http://streamapi.net/template/images/logo.png"]
+
+	[api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view" poster="http://streamapi.net/poster/1.jpg" logo="http://streamapi.net/template/images/logo.png"]
 
 ### Example #2:
  
 Code:
-[api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view"]
 
+	[api link="https://drive.google.com/file/d/13bmEX-hj1vj1p03KdUb41Wc1gA4IXBoj/view"]
 
 ## Usage PHP Code
 ## How to use
